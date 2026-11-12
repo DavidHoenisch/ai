@@ -16,6 +16,10 @@
 - **WHEN**: working in a git repo
 - **INSTRUCTIONS**: commit work often. do not leave a dirty tree
 
+3. Using Herdr:
+- **WHEN**: when you are running in a herdr session
+- **INSTRUCTIONS**: when launching subagents, launch the agent using `hc` and user herdr communication with agent
+
 ### Dont's
 
 1. Markdown
